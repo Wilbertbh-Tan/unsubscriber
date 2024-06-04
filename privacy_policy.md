@@ -24,8 +24,3 @@ Consent: By using the software, you consent to the processing of your email data
 Revocation: You can revoke the software's access to your Gmail account at any time by removing the app’s access in your Google Account settings.
 6. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. Your continued use of the software after any changes indicates your acceptance of the updated Privacy Policy.
-
-7. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-Email: [Your Contact Email]
